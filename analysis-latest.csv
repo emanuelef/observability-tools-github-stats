@@ -1,0 +1,7 @@
+repo,stars,new-stars-last-30d,new-stars-last-14d,new-stars-last-7d,new-stars-last-24H,stars-per-mille-30d,days-last-star,days-last-commit,days-since-creation,mentionable-users,language,archived,dependencies,main-category,sub-category,liveness,unique-contributors,new-commits-last-30d
+uptrace/uptrace,2571,121,77,32,1,47.063,0,1,752,22,Go,false,59,Applications,,100.000,2,29
+SigNoz/signoz,15928,430,188,102,15,26.996,0,2,1104,130,TypeScript,false,72,Applications,,100.000,13,75
+highlight/highlight,6165,106,55,28,3,17.194,0,0,1240,51,TypeScript,false,0,Applications,,100.000,13,83
+hyperdxio/hyperdx,5486,178,107,32,5,32.446,0,0,122,12,TypeScript,false,0,Applications,,100.000,5,78
+openobserve/openobserve,7828,459,201,75,7,58.636,0,0,345,31,Rust,false,106,Applications,,100.000,16,147
+VictoriaMetrics/VictoriaMetrics,10144,280,114,68,8,27.603,0,1,1931,221,Go,false,32,Applications,,100.000,16,61
