@@ -6,3 +6,4 @@
 * [Hyperdx](https://github.com/hyperdxio/hyperdx) — Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors.
 * [OpenObserve](https://github.com/openobserve/openobserve) — 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 * [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) — VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+* [Quickwit](https://github.com/quickwit-oss/quickwit) — Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
