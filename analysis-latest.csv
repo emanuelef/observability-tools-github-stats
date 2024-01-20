@@ -1,8 +1,8 @@
 repo,stars,new-stars-last-30d,new-stars-last-14d,new-stars-last-7d,new-stars-last-24H,stars-per-mille-30d,days-last-star,days-last-commit,days-since-creation,mentionable-users,language,archived,dependencies,main-category,sub-category,liveness,unique-contributors,new-commits-last-30d
-uptrace/uptrace,2592,126,60,21,3,48.611,0,2,757,22,Go,false,59,Applications,,100.000,1,20
-SigNoz/signoz,15982,380,192,82,8,23.777,0,0,1110,130,TypeScript,false,72,Applications,,100.000,12,78
-highlight/highlight,6188,110,57,25,0,17.776,1,0,1246,51,TypeScript,false,0,Applications,,100.000,14,72
-hyperdxio/hyperdx,5498,161,50,20,2,29.283,0,0,128,12,TypeScript,false,0,Applications,,100.000,5,87
-openobserve/openobserve,7922,502,199,108,10,63.368,0,0,350,31,Rust,false,106,Applications,,100.000,16,144
-VictoriaMetrics/VictoriaMetrics,10198,273,135,62,11,26.770,0,0,1936,223,Go,false,33,Applications,,100.000,17,109
-quickwit-oss/quickwit,5203,815,767,248,21,156.640,0,0,1010,66,Rust,false,0,Applications,,100.000,11,73
+uptrace/uptrace,2593,124,52,21,0,47.821,1,0,758,22,Go,false,59,Applications,,100.000,2,18
+SigNoz/signoz,15989,371,174,71,8,23.203,0,0,1111,130,TypeScript,false,72,Applications,,100.000,12,81
+highlight/highlight,6190,109,56,25,3,17.609,0,0,1247,51,TypeScript,false,0,Applications,,100.000,13,74
+hyperdxio/hyperdx,5499,156,48,16,1,28.369,0,0,129,12,TypeScript,false,0,Applications,,100.000,5,90
+openobserve/openobserve,7937,508,193,113,15,64.004,0,0,351,31,Rust,false,106,Applications,,100.000,16,140
+VictoriaMetrics/VictoriaMetrics,10204,257,128,58,6,25.186,0,0,1937,223,Go,false,33,Applications,,100.000,15,111
+quickwit-oss/quickwit,5222,832,750,218,19,159.326,0,0,1011,66,Rust,false,0,Applications,,100.000,10,77
