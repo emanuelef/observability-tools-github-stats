@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/emanuelef/observability-tools-github-stats/otel_instrumentation"
 	"github.com/emanuelef/github-repo-activity-stats/repostats"
 	"github.com/emanuelef/github-repo-activity-stats/stats"
+	"github.com/emanuelef/observability-tools-github-stats/otel_instrumentation"
 	"github.com/go-resty/resty/v2"
 	_ "github.com/joho/godotenv/autoload"
 	"go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace"

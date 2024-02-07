@@ -2,7 +2,8 @@ import React from "react";
 import Linkweb from "@mui/material/Link";
 import GitHubButton from "react-github-btn";
 
-const awesomeRustUrl = "https://github.com/emanuelef/observability-tools-github-stats";
+const awesomeRustUrl =
+  "https://github.com/emanuelef/observability-tools-github-stats";
 
 const csvURL =
   "https://raw.githubusercontent.com/emanuelef/observability-tools-github-stats/main/analysis-latest.csv";
@@ -26,7 +27,7 @@ function Header({ lastUpdate }) {
   return (
     <div className="header" style={headerStyle}>
       <Linkweb href={awesomeRustUrl} target="_blank">
-        Awesome Rust
+        Observability tools
       </Linkweb>
       <Linkweb href={csvURL} download>
         Link to CSV

@@ -77,7 +77,7 @@ const lastUpdateURL =
   "https://raw.githubusercontent.com/emanuelef/observability-tools-github-stats/main/last-update.txt";
 
 const fullStarsHistoryURL =
-  "https://emanuelef.github.io/gh-repo-stats-server/#/";
+  "https://emanuelef.github.io/daily-stars-explorer/#/";
 
 const TimelineMetrics = ["Stars", "Commits"];
 
@@ -598,7 +598,7 @@ function App() {
                 />
               }
             >
-              <h2 style={{ color: "black" }}>Awesome Rust Stats</h2>
+              <h2 style={{ color: "black" }}>Observability tools Stats</h2>
             </MenuItem>
             <MenuItem
               component={<Link to="/table" className="link" />}
