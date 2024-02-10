@@ -12,7 +12,6 @@ import { Sidebar, Menu, MenuItem } from "react-pro-sidebar";
 import { Routes, Route, Link } from "react-router-dom";
 
 import TimeSeriesChart from "./TimeSeriesChart";
-import DepsChart from "./DepsChart";
 import BubbleChart from "./BubbleChart";
 
 import MenuRoundedIcon from "@mui/icons-material/MenuRounded";
@@ -607,14 +606,8 @@ function App() {
               Table
             </MenuItem>
             <MenuItem
-              component={<Link to="/deps" className="link" />}
-              icon={<LibraryBooksRoundedIcon />}
-            >
-              Dependencies
-            </MenuItem>
-            <MenuItem
               component={
-                <Link to="/starstimeline/juspay/hyperswitch" className="link" />
+                <Link to="/starstimeline/openobserve/openobserve" className="link" />
               }
               icon={<TimelineRoundedIcon />}
             >
@@ -633,7 +626,6 @@ function App() {
           <Routes>
             <Route path="/" element={<Table />} />
             <Route path="/table" element={<Table />} />
-            <Route path="/deps" element={<DepsChart />} />
             <Route
               path="/starstimeline/:user/:repository"
               element={<StarsTimeline />}
