@@ -1,8 +1,6 @@
 name: Update Awesome Observability stats
 
 on:
-  schedule:
-    - cron: "0 3 * * 1" # runs at 03:00 UTC on Monday
   workflow_dispatch:
 
 jobs:
